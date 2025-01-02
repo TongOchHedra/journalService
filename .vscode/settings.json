@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["JournalService"],
+    "java.project.outputPath": "target/classes",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "target/dependency/*.jar"
+    ],
+    "maven.executable.path": "mvn", // Path to Maven executable
+    "maven.terminal.useJavaHome": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+
+}
